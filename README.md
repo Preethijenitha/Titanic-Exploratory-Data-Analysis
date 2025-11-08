@@ -38,15 +38,13 @@ Some summary insights from the analysis include:
    cd Titanic-Exploratory-Data-Analysis
 3. (Optional) Create a virtual environment and install dependencies:
    ```bash
- python -m venv venv
- source venv/bin/activate   # For Linux/Mac
- venv\Scripts\activate      # For Windows
- pip install pandas numpy matplotlib seaborn jupyter
-4.Launch Jupyter Notebook:
-   ```bash
-  jupyter notebook
-
-5.Open and run titanic.ipynb to view the complete analysis.
+    python -m venv venv
+    source venv/bin/activate   # For Linux/Mac
+    venv\Scripts\activate      # For Windows
+    pip install pandas numpy matplotlib seaborn jupyter
+4. Launch Jupyter Notebook:
+   jupyter notebook
+5. Open and run titanic.ipynb to view the complete analysis.
 
 ##💡 Why This Project Matters
 Exploratory Data Analysis (EDA) is a crucial step in any data science or machine learning project.
