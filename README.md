@@ -42,6 +42,7 @@ Some summary insights from the analysis include:
  source venv/bin/activate   # For Linux/Mac
  venv\Scripts\activate      # For Windows
  pip install pandas numpy matplotlib seaborn jupyter
+
 4.Launch Jupyter Notebook:
   jupyter notebook
 5.Open and run titanic.ipynb to view the complete analysis.
