@@ -34,8 +34,10 @@ Some summary insights from the analysis include:
    ```bash
    git clone https://github.com/Preethijenitha/Titanic-Exploratory-Data-Analysis.git
 2. Navigate into the folder:
+   ```bash
    cd Titanic-Exploratory-Data-Analysis
 3.(Optional) Create a virtual environment and install dependencies:
+   ```bash
  python -m venv venv
  source venv/bin/activate   # For Linux/Mac
  venv\Scripts\activate      # For Windows
